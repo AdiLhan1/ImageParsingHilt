@@ -1,0 +1,2 @@
+rootProject.name = "ImageParsingHilt"
+include ':app'
